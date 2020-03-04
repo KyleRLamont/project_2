@@ -3,12 +3,12 @@
 
 ## Travel App
 Build a wishlist of cities you want to visit and view weather, translation, hotel and flight information all in one app.
+[Live Site](https://project2kkca.herokuapp.com/)
 
 ### API
 Weather: https://rapidapi.com/community/api/open-weather-map \
 Translation: https://rapidapi.com/systran/api/systran-io-translation-and-nlp \
 Flight: https://rapidapi.com/Travelpayouts/api/flight-data/ \
-Hotel: 
 
 ### Basic App Functions
 * Add the city you want to visit
